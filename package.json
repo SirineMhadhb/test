@@ -1,0 +1,19 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.18.3",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
